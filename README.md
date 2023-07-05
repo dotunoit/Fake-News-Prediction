@@ -1,4 +1,4 @@
-To create the script, we will use a popular machine learning library called scikit-learn, which provides various algorithms for classification tasks. We'll use a dataset consisting of labeled news articles (fake or real) to train a classifier. 
+To create this basic fake news prediction script, a popular machine learning library called scikit-learn was used, which provides various algorithms for classification tasks. We'll use a dataset consisting of labeled news articles (fake or real) to train a classifier. 
 Here's a breakdown of how the script works:
 
 The script starts by importing the necessary libraries, including pandas for data manipulation, scikit-learn for machine learning operations, and metrics for evaluating the model.
